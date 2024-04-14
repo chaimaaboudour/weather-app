@@ -1,1 +1,1 @@
-App donne des  information  sur la meteo de jour 
+App donne des  informations  sur la meteo de jour 
